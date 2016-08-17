@@ -1,0 +1,28 @@
+name: webtest
+favicon: null
+layout_spectrum: 0.4312355173751712
+typography_spectrum: 0.2040449851192534
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9693535543046892
+  lightness: 0.34815621888265014
+  saturation: 0.3125780285336077
+  rhythmicContrast: 0.8463744090404361
+purpose: []
